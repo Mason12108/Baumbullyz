@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BaumBullys</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to BaumBullys!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>About Us</h2>
+            <p>Welcome to BaumBullys, your one-stop destination for all things gardening and landscaping.</p>
+        </section>
+
+        <section class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Garden Design</li>
+                <li>Lawn Maintenance</li>
+                <li>Tree Trimming</li>
+                <li>Plant Care</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 BaumBullys. All rights reserved.</p>
+    </footer>
+</body>
+</html>
